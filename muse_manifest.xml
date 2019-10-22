@@ -1,0 +1,63 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smex-vidos.html" resolutions="1x" timestamp="1571744470509">
+  <folder name="css">
+    <file name="site_global.css" crc="5257908"/>
+    <file name="index.css" crc="64498875" ref="index"/>
+    <file name="voice.css" crc="437523074" ref="voice"/>
+    <file name="pranks.css" crc="3871248530" ref="pranks"/>
+    <file name="fails.css" crc="4215054266" ref="fails"/>
+  </folder>
+  <folder name="assets">
+    <file name="самые_жесткие_пранки22102019.mp4" crc="4133104275" seo="true" mt="1571732558000"/>
+    <file name="разработчик_тестировщик-и-пользователь.mp4" crc="3893041136" seo="true" mt="1571733479000"/>
+    <file name="война-21-века.mp4" crc="4143372000" seo="true" mt="1571734249000"/>
+    <file name="кёт-срёт-3.0.mp4" crc="430570586" seo="true" mt="1571733959000"/>
+    <file name="великие-стрелки.mp4" crc="166216666" seo="true" mt="1571734583000"/>
+    <file name="причина-неприятностей.mp4" crc="3943867744" seo="true" mt="1571403587000"/>
+    <file name="российский-автопром.mp4" crc="332916455" seo="true" mt="1571406909000"/>
+    <file name="нутелла-пранк.mp4" crc="151046153" seo="true" mt="1571735285000"/>
+    <file name="сумасшедший-в-метро.mp4" crc="107753570" seo="true" mt="1571408265000"/>
+    <file name="офисные-сотрудники.mp4" crc="105857299" seo="true" mt="1571404192000"/>
+    <file name="коты-базарят.mp4" crc="256371195" seo="true" mt="1571735707000"/>
+    <file name="судьбинушка-робота-собаки-из-bostondynamics-(озвучка-гугл-переводчик,-много-мата).mp4" crc="4066447288" seo="true" mt="1571735837000"/>
+    <file name="попугай-с-похмелья.mp4" crc="4107456606" seo="true" mt="1571736083000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fails:pranks:voice"/>
+    <file name="museutils.js" crc="3939489907" ref="index:fails:pranks:voice"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fails:pranks:voice"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:fails:pranks:voice"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:fails:pranks:voice"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:fails:pranks:voice"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:fails:pranks:voice"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:pranks:voice"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fails:pranks:voice"/>
+    <file name="require.js" crc="4177726516" ref="index:fails:pranks:voice"/>
+  </folder>
+  <folder name="images">
+    <file name="up.png" crc="28596779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram_icon.png" crc="4146294184" seo="true" ref="index:fails:pranks:voice">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="voice" alt=""/>
+      <caption webpage="fails" alt=""/>
+    </file>
+    <file name="vk_icon.png" crc="3937696258" seo="true" ref="index:fails:pranks:voice">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="voice" alt=""/>
+      <caption webpage="fails" alt=""/>
+    </file>
+    <file name="home.jpg" crc="503872360" ref="index:fails:pranks:voice">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="voice" alt=""/>
+      <caption webpage="fails" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4136902442" mt="1571740008677" redirect="true"/>
+  <file name="fails.html" crc="4289282029" seo="true" mt="1571737377723" redirect="true"/>
+  <file name="pranks.html" crc="3971821123" seo="true" mt="1571744425117" redirect="true"/>
+  <file name="voice.html" crc="534829093" seo="true" mt="1571737384760" redirect="true"/>
+</manifest>
