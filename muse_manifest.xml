@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smex-vidos.html" resolutions="1x" timestamp="1571744470509">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smex-vidos.html" resolutions="1x" timestamp="1571861057082">
   <folder name="css">
     <file name="site_global.css" crc="5257908"/>
-    <file name="index.css" crc="64498875" ref="index"/>
-    <file name="voice.css" crc="437523074" ref="voice"/>
-    <file name="pranks.css" crc="3871248530" ref="pranks"/>
-    <file name="fails.css" crc="4215054266" ref="fails"/>
+    <file name="index.css" crc="376591589" ref="index"/>
+    <file name="voice.css" crc="3770980817" ref="voice"/>
+    <file name="pranks.css" crc="4146814712" ref="pranks"/>
+    <file name="fails.css" crc="4077268698" ref="fails"/>
   </folder>
   <folder name="assets">
     <file name="самые_жесткие_пранки22102019.mp4" crc="4133104275" seo="true" mt="1571732558000"/>
@@ -34,8 +34,11 @@
     <file name="require.js" crc="4177726516" ref="index:fails:pranks:voice"/>
   </folder>
   <folder name="images">
-    <file name="up.png" crc="28596779" seo="true" ref="index">
+    <file name="up.png" crc="28596779" seo="true" ref="index:fails:pranks:voice">
       <caption webpage="index" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="fails" alt=""/>
+      <caption webpage="voice" alt=""/>
     </file>
     <file name="instagram_icon.png" crc="4146294184" seo="true" ref="index:fails:pranks:voice">
       <caption webpage="index" alt=""/>
@@ -55,9 +58,10 @@
       <caption webpage="voice" alt=""/>
       <caption webpage="fails" alt=""/>
     </file>
+    <file name="главная-favicon.ico" crc="491100253" ref="index"/>
   </folder>
-  <file name="index.html" crc="4136902442" mt="1571740008677" redirect="true"/>
-  <file name="fails.html" crc="4289282029" seo="true" mt="1571737377723" redirect="true"/>
-  <file name="pranks.html" crc="3971821123" seo="true" mt="1571744425117" redirect="true"/>
-  <file name="voice.html" crc="534829093" seo="true" mt="1571737384760" redirect="true"/>
+  <file name="index.html" crc="3969709719" mt="1571861018224" redirect="true"/>
+  <file name="fails.html" crc="3977685390" seo="true" mt="1571860331590" redirect="true"/>
+  <file name="pranks.html" crc="469026017" seo="true" mt="1571860156033" redirect="true"/>
+  <file name="voice.html" crc="532482533" seo="true" mt="1571860267475" redirect="true"/>
 </manifest>
