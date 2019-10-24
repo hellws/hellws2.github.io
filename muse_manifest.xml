@@ -1,10 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smex-vidos.html" resolutions="1x" timestamp="1571863575534">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="smex-vidos.html" resolutions="1x" timestamp="1571923092068">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="204731843" ref="phone>index:phone>fails:phone>voice:phone>pranks"/>
+      <file name="index.css" crc="4044595600" ref="phone>index"/>
+      <file name="fails.css" crc="4232392484" ref="phone>fails"/>
+      <file name="voice.css" crc="4248847567" ref="phone>voice"/>
+      <file name="pranks.css" crc="4103506666" ref="phone>pranks"/>
+    </folder>
+    <file name="index.html" crc="72369103" mt="1571923019304" redirect="true"/>
+    <file name="pranks.html" crc="25973802" seo="true" mt="1571923019304" redirect="true"/>
+    <file name="voice.html" crc="241055880" seo="true" mt="1571923019304" redirect="true"/>
+    <file name="fails.html" crc="3922005120" seo="true" mt="1571923019304" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="5257908"/>
-    <file name="index.css" crc="376591589" ref="index"/>
-    <file name="voice.css" crc="235450598" ref="voice"/>
-    <file name="pranks.css" crc="3852151400" ref="pranks"/>
-    <file name="fails.css" crc="311767315" ref="fails"/>
+    <file name="index.css" crc="3904355676" ref="index"/>
+    <file name="voice.css" crc="3766465732" ref="voice"/>
+    <file name="pranks.css" crc="277925989" ref="pranks"/>
+    <file name="fails.css" crc="175164955" ref="fails"/>
   </folder>
   <folder name="assets">
     <file name="самые_жесткие_пранки22102019.mp4" crc="4133104275" seo="true" mt="1571732558000"/>
@@ -22,28 +35,36 @@
     <file name="попугай-с-похмелья.mp4" crc="4107456606" seo="true" mt="1571736083000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fails:pranks:voice"/>
-    <file name="museutils.js" crc="3939489907" ref="index:fails:pranks:voice"/>
-    <file name="whatinput.js" crc="86476730" ref="index:fails:pranks:voice"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:fails:pranks:voice"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="index:fails:pranks:voice"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:fails:pranks:voice"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:fails:pranks:voice"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="museutils.js" crc="3939489907" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
     <file name="jquery.scrolleffects.js" crc="312044820" ref="index:pranks:voice"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:fails:pranks:voice"/>
-    <file name="require.js" crc="4177726516" ref="index:fails:pranks:voice"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
+    <file name="require.js" crc="4177726516" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails"/>
   </folder>
   <folder name="images">
-    <file name="up.png" crc="28596779" seo="true" ref="index:fails:pranks:voice">
+    <file name="up.png" crc="28596779" seo="true" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="voice" alt=""/>
+      <caption webpage="voice" alt=""/>
+      <caption webpage="pranks" alt=""/>
       <caption webpage="pranks" alt=""/>
       <caption webpage="fails" alt=""/>
+      <caption webpage="fails" alt=""/>
     </file>
-    <file name="instagram_icon.png" crc="4146294184" seo="true" ref="index:fails:pranks:voice">
+    <file name="instagram_icon.png" crc="269221261" seo="true" ref="index:fails:pranks:voice:phone>index:phone>pranks:phone>voice:phone>fails">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="voice" alt=""/>
+      <caption webpage="voice" alt=""/>
       <caption webpage="pranks" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="fails" alt=""/>
       <caption webpage="fails" alt=""/>
     </file>
     <file name="vk_icon.png" crc="3937696258" seo="true" ref="index:fails:pranks:voice">
@@ -58,13 +79,22 @@
       <caption webpage="pranks" alt=""/>
       <caption webpage="fails" alt=""/>
     </file>
-    <file name="главная-favicon.ico" crc="491100253" ref="index"/>
-    <file name="фейлы-favicon.ico" crc="491100253" ref="fails"/>
-    <file name="пранки-favicon.ico" crc="491100253" ref="pranks"/>
-    <file name="озвучка-favicon.ico" crc="491100253" ref="voice"/>
+    <file name="главная-favicon.ico" crc="323901263" ref="phone>index"/>
+    <file name="фейлы-favicon.ico" crc="323901263" ref="phone>fails"/>
+    <file name="пранки-favicon.ico" crc="323901263" ref="phone>pranks"/>
+    <file name="озвучка-favicon.ico" crc="323901263" ref="phone>voice"/>
+    <file name="vk phone.png" crc="133467265" seo="true" ref="phone>index:phone>pranks:phone>voice:phone>fails">
+      <caption webpage="index" alt=""/>
+      <caption webpage="voice" alt=""/>
+      <caption webpage="pranks" alt=""/>
+      <caption webpage="fails" alt=""/>
+    </file>
+    <file name="home760x428.jpg" crc="4291858532" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3969709719" mt="1571861018224" redirect="true"/>
-  <file name="fails.html" crc="429430711" seo="true" mt="1571863559864" redirect="true"/>
-  <file name="pranks.html" crc="9894926" seo="true" mt="1571863539151" redirect="true"/>
-  <file name="voice.html" crc="512798269" seo="true" mt="1571863550975" redirect="true"/>
+  <file name="index.html" crc="53753039" mt="1571923033695" redirect="true"/>
+  <file name="fails.html" crc="4019062350" seo="true" mt="1571923050532" redirect="true"/>
+  <file name="pranks.html" crc="3881853895" seo="true" mt="1571923042854" redirect="true"/>
+  <file name="voice.html" crc="50078798" seo="true" mt="1571923065921" redirect="true"/>
 </manifest>
